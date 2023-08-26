@@ -1,0 +1,14 @@
+name: frist workflow
+
+on:
+    - push
+    
+jobs:
+    say-hello:
+        name: Say hello
+        run-on: ubuntu-latest
+        steps:
+            -uses: actions/checkout@v3
+            
+            -name: Say hello
+             run: echo "Hello"
