@@ -1,4 +1,4 @@
-name: frist workflow
+name: first workflow
 
 on:
     - push
