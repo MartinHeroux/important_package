@@ -1,0 +1,9 @@
+venv/
+.tox/
+.pytest_cache/
+.git/
+.coverage
+build/
+dist/
+*.tar.xz
+*.egg-info/

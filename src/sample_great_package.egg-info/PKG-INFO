@@ -1,0 +1,22 @@
+Metadata-Version: 2.1
+Name: sample-great-package
+Version: 0.0.1
+Summary: Great package that does amazing things.
+Home-page: https://github.com/MartinHeroux/sample-great-package
+Author: Martin Heroux
+Author-email: "Martin Heroux" <heroux.martin@gmail.com>
+License: GPLv3
+Classifier: License :: OSI approved :: GPLv3
+Requires-Python: >=3.9
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# Great project
+
+This package does amazing things.
+
+## Installation
+
+```shell
+$ python -m pip install sample-great-package 
+```
