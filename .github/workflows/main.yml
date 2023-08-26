@@ -8,7 +8,7 @@ jobs:
         name: Say hello
         run-on: ubuntu-latest
         steps:
-            -uses: actions/checkout@v3
+            - uses: actions/checkout@v3
             
-            -name: Say hello
-             run: echo "Hello"
+            - name: Say hello
+              run: echo "Hello"
